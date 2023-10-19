@@ -28,7 +28,7 @@
   </div><br><br><br>
 </section>
 <footer>
-  <p>Made with <span class='heart'>&hearts;</span> by Bickey Manandhar</p>
+  <p>Made with <span class='heart'>&hearts;</span> by Babita Gurung</p>
   
 </footer>
 <!-- partial -->

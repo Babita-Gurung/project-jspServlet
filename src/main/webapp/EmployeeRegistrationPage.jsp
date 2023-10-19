@@ -40,7 +40,7 @@
 	</section>
 	<footer>
 		<p>
-			Made with <span class='heart'>&hearts;</span> by Bickey Manandhar
+			Made with <span class='heart'>&hearts;</span> by Babita Gurung
 		</p>
 
 	</footer>

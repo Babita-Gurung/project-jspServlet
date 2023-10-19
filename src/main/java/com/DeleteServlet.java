@@ -17,7 +17,6 @@ public class DeleteServlet extends HttpServlet {
 		DataBaseUtil dbu= new DataBaseUtil();
 		dbu.createConnection();
 		if(dbu.deleteUsingEmail(email)>0) {
-			//request.setAttribute("manandharbickey@gmail.com","email");
 			request.setAttribute("email",adminEmail);
 			//request.setAttribute("test@123","password");
 			request.setAttribute("password",adminPassword);
